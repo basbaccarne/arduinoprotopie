@@ -18,8 +18,9 @@ To set this up you'll need to install and set-up the following:
 * [Install node.js](https://nodejs.org/en)
 * install packages `npm install selenium-webdriver`
 
-**Samples and demo templates**
-run with `node <filename.js>`
+**Samples and demo templates**   
+Always open protopie connect first.   
+Run with `node <filename.js>`
 * [receive.js](/selenium/receive.js): Read latest entry in the data overview and print as JSON (capture pie 'send' messages)
 * [send.js](/selenium/send.js): Generate a random number and publish in protopie connect (can be 'reveived' by pies)
 
